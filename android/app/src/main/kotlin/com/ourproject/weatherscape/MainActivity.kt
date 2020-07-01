@@ -1,0 +1,6 @@
+package com.ourproject.weatherscape
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
